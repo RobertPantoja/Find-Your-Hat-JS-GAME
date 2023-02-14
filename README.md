@@ -9,19 +9,19 @@ Before you can play the game, you need to have Node.js installed on your compute
 ## Installation
 
 1. Clone the repository to your local machine using:
-git clone https://github.com/your-username/find-the-hat.git
+```git clone https://github.com/your-username/find-the-hat.git```
 
 2. Navigate to the project directory using the following command:
-cd find-the-hat
+```cd find-the-hat```
 
 3. Install the dependencies using the following command:
-npm install
+```npm install```
 
 ## How to Play
 
 To play the game, run the following command in the project directory:
 
-node main.js
+```node main.js```
 
 This will start the game and display the game field in the command line interface. The field consists of a grid of cells, with a hat ("^") and a player ("*") randomly placed on the grid. The player is always placed in the top-left corner of the grid.
 

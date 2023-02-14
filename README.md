@@ -40,9 +40,9 @@ You can customize the game by modifying the following constants in the main.js f
 
 In the *a* const the three parameters are height, width an probability.
 
-WIDTH: The width of the game field.
-HEIGHT: The height of the game field.
-PROBABILITY: The probability of a hole being placed in each cell of the game field.
+- WIDTH: The width of the game field.
+- HEIGHT: The height of the game field.
+- PROBABILITY: The probability of a hole being placed in each cell of the game field.
 
 ## Acknowledgments
 

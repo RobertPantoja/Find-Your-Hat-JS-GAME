@@ -27,10 +27,10 @@ This will start the game and display the game field in the command line interfac
 
 To move the player, entering the following commands:
 
-> U: Move the player up one row.
-> D: Move the player down one row.
-> L: Move the player left one column.
-> R: Move the player right one column.
+- U: Move the player up one row.
+- D: Move the player down one row.
+- L: Move the player left one column.
+- R: Move the player right one column.
 
 The goal of the game is to navigate the player to the hat without falling into a hole ("O") or falling out of the field. If the player falls into a hole, the game is over. If the player finds the hat, the game is won.
 
